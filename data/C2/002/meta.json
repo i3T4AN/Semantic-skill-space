@@ -1,0 +1,14 @@
+{
+  "iteration": 2,
+  "timestamp_utc": "2026-03-01T23:35:55.623297+00:00",
+  "epochs_added": 3,
+  "prefix_len": 2,
+  "lr": 0.0001,
+  "warmup_steps": 100,
+  "grad_clip": 1.0,
+  "alpha_start": 0.05,
+  "alpha_end": 0.25,
+  "resume_from": "data/C2/001/projector.pt",
+  "score_points": 39.0,
+  "score_total": 100
+}
