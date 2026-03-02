@@ -1,5 +1,9 @@
 # SSS — Semantic Skill Space
 
+Zenodo: https://zenodo.org/records/18830835
+
+DOI: https://doi.org/10.5281/zenodo.18830835
+
 Skill injection experiment for small models: compare markdown skill prompting vs skill-vector KV-cache injection.
 
 ## Hypothesis Statement
